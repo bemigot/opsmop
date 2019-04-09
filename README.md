@@ -1,5 +1,5 @@
 OpsMop was a "next-generation, no-compromise automation system from Michael DeHaan"
-[At 6:48 AM on 2 Feb 2019 he threw in the towel](https://twitter.com/laserllama/status/1091710068234641408) and around that time took down [docs](opsmop.io) and [Discourse Forum](https://talk.msphere.io/) sites. 
+[At 6:48 AM on 2 Feb 2019 he threw in the towel](https://twitter.com/laserllama/status/1091710068234641408) and around that time took down [docs](https://opsmop.io) and [Discourse Forum](https://talk.msphere.io/) sites. 
 
 
 Uses
