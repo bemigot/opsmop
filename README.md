@@ -1,11 +1,6 @@
-It's OpsMop!
-------------
+OpsMop was a "next-generation, no-compromise automation system from Michael DeHaan"
+[At 6:48 AM on 2 Feb 2019 he threw in the towel](https://twitter.com/laserllama/status/1091710068234641408) and around that time took down [docs](opsmop.io) and [Discourse Forum](https://talk.msphere.io/) sites. 
 
-Cleanup on Datacenter Aisle 3!
-
-OpsMop is a next-generation, no-compromise automation system from [Michael DeHaan](http://michaeldehaan.net)
-
-Full Documentation: [docs.opsmop.io](http://docs.opsmop.io)
 
 Uses
 ====
@@ -32,38 +27,15 @@ Features
 * Local configuration
 * Pull configuration with pluggable transports (soon)
 * Push configuration with multi-tier addressing (soon)
-* Exceptional runtime speed
 
-Values
-======
-
-* Minimalism
-* Flexibility
-* Language design
-* Code quality
-* Speed
-* Applied Experience
-
-Operating Systems
-=================
-
-Supported:
-
-* Linux
-* BSD
-* OS X
 
 Status
 ======
 
-* Now open for pull requests!
-* Extensive help for new contributors available in December 2018, stop by the forum!
-* Pull and Push features under active development
-* Documentated language features mostly locked in by January 2019
-* Tagged release in Feburary 2019
+* Pull and Push features (were) under development
+* language features mostly locked in by January 2019
 
-If you like where this is going, now is the time to join up with thoughts
-and potentially code. For upcoming planned activity, see TODO.md
+For planned activity, see TODO.md
 
 License
 =======
@@ -75,21 +47,8 @@ Author
 
 Michael DeHaan [<michael@michaeldehaan.net>](https://michaeldehaan.net)
 
-Community and Contributions
-===========================
-
-The purpose of the Opsmop community is to come together to build the ultimate configuration tool we all want to use.
-If this project seems interesting to you, we highly recommend joining the [forum](https://talk.msphere.io). By contributing, users certify that they agree with the terms in [CONTRIBUTING.md](https://github.com/opsmop/opsmop/blob/master/CONTRIBUTING.md).
 
 Twitter
 =======
 
 * [@opsmop](http://twitter.com/opsmop)
-* [@laserllama](http://twitter.com/laserllama)
-
-Forum
-=====
-
-Feature ideas, questions, want to share something, or need some help? [Post on the Discourse Forum!](https://talk.msphere.io/).
-
-
